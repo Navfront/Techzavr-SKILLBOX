@@ -87,7 +87,7 @@
       </ul>
 
       <span class="footer__copyright">
-        © 2023 Лапшезавррр
+        © 2023 Технозавррр
       </span>
     </div>
   </footer>
