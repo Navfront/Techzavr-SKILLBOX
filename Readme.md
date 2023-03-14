@@ -1,6 +1,6 @@
 # SKILLBOX VUE PROJECT: "Techzavr"
 
-### Ссылка на gh-pages: https://navfront.github.io/techzavr/
+### Ссылка на gh-pages: https://navfront.github.io/Techzavr-SKILLBOX/
 
 <br>
 
